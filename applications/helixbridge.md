@@ -19,7 +19,7 @@ In the future, we will also implement cross-chain asset transfer services betwee
 - **Designs(UI)**:
 
 1. Transfer
-![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-transfer.png)
+![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-transfer.jpeg)
 
 The user can easily select the source chain, target chain and token through this page, the system will estimate and display the time and cost of the transfer, the user performs the transfer operation by calling the wallet plugin (Polkadot.js or metamask) to initiate the signature operation.
 
