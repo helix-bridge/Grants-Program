@@ -19,14 +19,12 @@ In the future, we will also implement cross-chain asset transfer services betwee
 - **Designs(UI)**:
 
 1. Transfer
-
-[Transfer](https://github.com/helix-bridge/docs/blob/main/static/img/demo-transfer.png)
+![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-transfer.png)
 
 The user can easily select the source chain, target chain and token through this page, the system will estimate and display the time and cost of the transfer, the user performs the transfer operation by calling the wallet plugin (Polkadot.js or metamask) to initiate the signature operation.
 
 2. Records
-
-[Records](https://github.com/helix-bridge/docs/blob/main/static/img/demo-record.png)
+![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-record.png)
 
 Through this page, all transfer transactions are displayed and information such as the address of the sending and receiving accounts can be retrieved.
 
@@ -47,23 +45,17 @@ For parachains like moonriver with evm module, our asset registration protocol w
 
 ### Team members
 
-Head of product: HackFisher
-- https://github.com/HackFisher
-Product design: ZolaxZola/1022ranji
-- https://github.com/ZolaxZola
-- https://github.com/1022ranji
-DevOps: fewensa
-- https://github.com/fewensa
-Frontend: sxlwar
-- https://github.com/sxlwar
-Tech lead, backend: Cheng
-- https://github.com/xiaoch05
+- Head of product: [HackFisher](https://github.com/HackFisher)
+- Product design: [ZolaxZola](https://github.com/ZolaxZola)/[ranji](https://github.com/1022ranji)
+- DevOps: [fewensa](https://github.com/fewensa)
+- Frontend: [sxlwar](https://github.com/sxlwar)
+- Tech lead, backend: [xiaoch05](https://github.com/xiaoch05)
 
 ### Contact
 
 - **Contact Name:** Cheng Xiao
 - **Contact Email:** hello@helixbridge.app
-- **Website:** No
+- **Website:** https://helixbridge.app/
 
 ### Legal Structure
 
