@@ -25,6 +25,7 @@ The user can easily select the source chain, target chain and token through this
 
 2. Records
 ![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-record.png)
+![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-detail.png)
 
 Through this page, all transfer transactions are displayed and information such as the address of the sending and receiving accounts can be retrieved.
 
