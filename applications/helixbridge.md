@@ -85,7 +85,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 ## Development Status :open_book:
 
 The source code repository for the Helix application is located at [Github](https://github.com/helix-bridge).
-It includes the [indexing service](https://github.com/helix-bridge/indexer) which monitors events on the chain and records transaction history, the [front-end](https://github.com/helix-bridge/helix-ui) which is responsible for user interaction and record presentation, the [documentation](https:// github.com/helix-bridge/docs), and the [contract](https://github.com/helix-bridge/contracts). In the initial version, we will encompass most of the xcm token transfers between parachains. In the future, Helix app will also use its own token mapping protocol based on xcm to complete token transfers between parachains evm and handle atomic operations for user asset transfers.
+It includes the [indexing service](https://github.com/helix-bridge/indexer) which monitors events on the chain and records transaction history, the [front-end](https://github.com/helix-bridge/helix-ui) which is responsible for user interaction and record presentation, the [docs](https://github.com/helix-bridge/docs), and the [contract](https://github.com/helix-bridge/contracts). In the initial version, we will encompass most of the xcm token transfers between parachains. In the future, Helix app will also use its own token mapping protocol based on xcm to complete token transfers between parachains evm and handle atomic operations for user asset transfers.
 
 ## Development Roadmap :nut_and_bolt:
 
