@@ -50,7 +50,6 @@ For parachains like moonriver with evm module, our asset registration protocol w
 
 ### Team members
 
-- Head of product: [HackFisher](https://github.com/HackFisher)
 - Product design: [ZolaxZola](https://github.com/ZolaxZola)/[ranji](https://github.com/1022ranji)
 - DevOps: [fewensa](https://github.com/fewensa)
 - Frontend: [sxlwar](https://github.com/sxlwar)
@@ -80,7 +79,6 @@ For several years, our team has been contributing to different projects on block
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/HackFisher
 - https://github.com/ZolaxZola
 - https://github.com/1022ranji
 - https://github.com/fewensa
