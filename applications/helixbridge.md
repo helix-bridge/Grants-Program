@@ -19,11 +19,15 @@ In the future, we will also implement cross-chain asset transfer services betwee
 - **Designs(UI)**:
 
 1. Transfer
+
+The transfer page provides an entry point for transferring user assets from one chain to another. For transfers between parachains, we encapsulate the xcm interface, shielding the user from complex command assembling and parameter setting. Only the most basic parameters, such as the receiving address, token, and amount, are open to the user.
+The transfer page will also support asset transfers between other heterogeneous chains, including cross-chains between ethereum and polkadot parachains, but of course the underlying cross-chain messages are not just using xcm.
 ![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-transfer.jpeg)
 
 The user can easily select the source chain, target chain and token through this page, the system will estimate and display the time and cost of the transfer, the user performs the transfer operation by calling the wallet plugin (Polkadot.js or metamask) to initiate the signature operation.
 
 2. Records
+All Helix cross-chain records will be displayed, which uses a two-level indexing service to provide users with complete retrieval, sorting and filtering services.
 ![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-record.png)
 ![image](https://github.com/helix-bridge/docs/blob/main/static/img/demo-detail.png)
 
